@@ -24,4 +24,3 @@ for stock in data:
 # Save to CSV
 df = pd.DataFrame(data)
 df.to_csv('nse_stocks_today.csv', index=False)
-print("\n✓ Saved: nse_stocks_today.csv")
