@@ -1,0 +1,10 @@
+SAFARICOM STOCK ANALYSIS SUMMARY
+==================================================
+
+Period: 2024-03-18 to 2026-03-18
+Total Return: 6.30%
+Annualized Return: 2.99%
+Volatility: 21.71%
+Sharpe Ratio: -0.09
+Max Drawdown: -22.66%
+Win Rate: 50.57%
